@@ -6,6 +6,7 @@ Windows ağında uzak bilgisayarlardan (IP/PC adı) bilgi toplama, analiz ve baz
 > 📌 Not: Script; Ping/ARP/GETMAC/WMIC/SC/Tasklist/Net View/Shutdown/MSG/PowerShell gibi yerleşik Windows araçlarını kullanır.
 
 ---
+![Dashboard](screenshots/dashboard1.png)
 
 ## Özellikler
 
