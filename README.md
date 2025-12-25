@@ -120,6 +120,3 @@ Windows ağında uzak bilgisayarlardan (IP/PC adı) bilgi toplama, analiz ve baz
 Kurumsal/kapalı kullanım için hazırlanmıştır.
 
 ---
-
-## Ekran Görüntüleri
-![Dashboard](screenshots/dashboard1.png)
