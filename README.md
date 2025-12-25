@@ -122,4 +122,4 @@ Kurumsal/kapalı kullanım için hazırlanmıştır.
 ---
 
 ## Ekran Görüntüleri
-- (Buraya screenshot ekleyebilirsin)
+![Dashboard](screenshots/dashboard1.png)
