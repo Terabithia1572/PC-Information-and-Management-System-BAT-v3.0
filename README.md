@@ -7,6 +7,9 @@ Windows ağında uzak bilgisayarlardan (IP/PC adı) bilgi toplama, analiz ve baz
 
 ---
 ![Dashboard](screenshots/dashboard1.png)
+![Dashboard](screenshots/process.png)
+![Dashboard](screenshots/user.png)
+![Dashboard](screenshots/hotfix.png)
 
 ## Özellikler
 
